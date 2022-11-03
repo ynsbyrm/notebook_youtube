@@ -16,4 +16,6 @@ The following guides illustrate how to use some features concretely:
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+* [To reach swagger-ui](http://localhost:8080/swagger-ui/index.html)
+* [To reach api-docs](http://localhost:8080/v2/api-docs)
 
